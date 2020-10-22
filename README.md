@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with Machine Learning
 - 📫 How to reach me: abhinavpareek532@gmail.com
-query {
+- query {
   viewer {
     repositories(first: 100, privacy: PUBLIC) {
       pageInfo {
