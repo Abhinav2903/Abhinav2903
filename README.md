@@ -4,27 +4,7 @@
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with Machine Learning
 - 📫 How to reach me: abhinavpareek532@gmail.com
-- query {
-  viewer {
-    repositories(first: 100, privacy: PUBLIC) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
-      nodes {
-        name
-        releases(last:1) {
-          totalCount
-          nodes {
-            name
-            publishedAt
-            url
-          }
-        }
-      }
-    }
-  }
-}
+- [![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=Abhinav2903)](https://github.com/Abhinav2903/github-readme-stats)
 <!--
 **Abhinav2903/Abhinav2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
