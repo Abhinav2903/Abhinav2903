@@ -2,8 +2,8 @@
 🔭 I’m currently working on Myself with some new skills too👇👇
 - 🌱 I’m currently learning and working on Flutter and Ionic
 - 👯 I’m looking to collaborate on Data Science Projects
-- 🤔 I’m looking for guidance with Machine Learning and keen to ready to work on it and have some understanding to
-- 📫 How to reach me: abhinavpareek532@gmail.com
+- 🤔 I’m looking for guidance with Machine Learning and keen to ready to work on it and have some understanding and experience too
+- 📫 How to reach me: abhinavpareek532@gmail.com, abhinav.mbm16@gmail.com
 - [![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=Abhinav2903)](https://github.com/Abhinav2903/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav2903)](https://github.com/Abhinav2903/github-readme-stats)
 <!--
