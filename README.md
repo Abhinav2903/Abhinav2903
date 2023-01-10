@@ -1,6 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on Myself with some new skills too👇👇
-- 🌱 I’m currently learning and working on Flutter and Ionic
+🔭 I’m currently pursuing [online-education](https://user-images.githubusercontent.com/43982928/211482754-03720e17-ff10-4577-b3e6-2d847b471ceb.png) Masters in Data Science and working on Myself 👇👇
+- 🌱 I’m currently learning and working on Flutter!
+ and Ionic
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for guidance with Machine Learning and keen to ready to work on it and have some understanding and experience too
 - 📫 How to reach me: abhinavpareek532@gmail.com, abhinav.mbm16@gmail.com
