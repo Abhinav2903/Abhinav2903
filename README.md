@@ -4,8 +4,8 @@
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for guidance with Machine Learning and keen to ready to work on it and have some understanding and experience too
 - 📫 How to reach me: abhinavpareek532@gmail.com, abhinav.mbm16@gmail.com
-- [![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=Abhinav2903)](https://github.com/Abhinav2903/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav2903)](https://github.com/Abhinav2903/github-readme-stats)
+<!-- - [![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=Abhinav2903)](https://github.com/Abhinav2903/github-readme-stats) -->
+<!-- - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav2903)](https://github.com/Abhinav2903/github-readme-stats) -->
 <!--
 **Abhinav2903/Abhinav2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
